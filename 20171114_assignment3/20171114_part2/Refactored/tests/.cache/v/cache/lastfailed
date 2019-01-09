@@ -1,0 +1,4 @@
+{
+  "test_objects.py::Test_Objects::()::test_powerup_problem": true,
+  "test_start_screen.py::Test_Start_Screen::()::test_initialization": true
+}

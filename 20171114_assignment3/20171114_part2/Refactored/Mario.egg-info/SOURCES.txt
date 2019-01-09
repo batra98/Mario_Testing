@@ -1,0 +1,5 @@
+setup.py
+Mario.egg-info/PKG-INFO
+Mario.egg-info/SOURCES.txt
+Mario.egg-info/dependency_links.txt
+Mario.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+{
+  "tests/test_color.py": true,
+  "tests/test_enemy.py": true,
+  "tests/test_mario.py": true,
+  "tests/test_objects.py": true,
+  "tests/test_start_screen.py": true
+}
